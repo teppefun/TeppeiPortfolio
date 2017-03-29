@@ -415,7 +415,7 @@ nav#tf-footer {
 }
 @media (max-width: 991px){
 	#tf-home{
-		background: url(../img/.jpg);
+		background: url(../img/topimg_s.jpg);
 		background-size: cover;
 		background-position: center;
 		background-attachment:scroll;
@@ -424,7 +424,7 @@ nav#tf-footer {
 		height:100%;
 	}
 	#tf-about{
-		background: url(../img/.jpg);
+		background: url(../img/teppei-s.jpg);
 		background-size: cover;
 		background-position: center;
 		background-attachment: scroll;
@@ -432,7 +432,7 @@ nav#tf-footer {
 		color: #000000;
 	}
 	#tf-why-me{
-		background: url(../img/.jpg);
+		background: url(../img/skillback-s.jpg);
 		background-size: cover;
 		background-position: center;
 		background-attachment: scroll;
@@ -464,7 +464,7 @@ nav#tf-footer {
 		text-align: center;
 	}
 	#tf-about{
-		background: url(../img/.jpg);
+		background: url(../img/teppei-xs.jpg);
 		background-size: cover;
 		background-position: center;
 		background-attachment: scroll;
@@ -472,7 +472,7 @@ nav#tf-footer {
 		color: #000000;
 	}
 	#tf-why-me{
-		background: url(../img/.jpg);
+		background: url(../img/skillback-xs.jpg);
 		background-size: cover;
 		background-position: center;
 		background-attachment: scroll;
